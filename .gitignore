@@ -1,0 +1,14 @@
+# Archivos de Go
+*.exe
+*.out
+
+# Archivos de entorno
+.env
+
+# Configuración local
+.vscode/
+.idea/
+.DS_Store
+
+# Archivos temporales
+*.log
